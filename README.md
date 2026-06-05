@@ -48,7 +48,7 @@ Each partial uncertainty is read from pre-computed sensitivity tables and linear
 Requires Python 3.8 or later.
 
 ```bash
-git clone https://github.com/<your-username>/Propagation-of-uncertainties.git
+git clone https://github.com/souto/Propagation-of-uncertainties.git
 cd Propagation-of-uncertainties
 pip install -r requirements.txt
 ```
